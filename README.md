@@ -1,0 +1,2 @@
+# Diabetes-Detection
+Linear Regression
